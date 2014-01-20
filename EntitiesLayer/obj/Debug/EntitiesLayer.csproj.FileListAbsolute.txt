@@ -1,0 +1,10 @@
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\EntitiesLayer\obj\Debug\EntitiesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

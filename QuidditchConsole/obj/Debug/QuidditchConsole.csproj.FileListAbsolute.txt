@@ -1,0 +1,27 @@
+c:\users\rouxel\documents\visual studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\QuidditchConsole.exe.config
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\obj\Debug\QuidditchConsole.csprojResolveAssemblyReference.cache
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\QuidditchConsole.exe
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\QuidditchConsole.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\BusinessLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\EntitiesLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\StubDataAccessLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\EntitiesLayer.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\obj\Debug\QuidditchConsole.exe
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\QuidditchConsole\obj\Debug\QuidditchConsole.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\Quidditch Mode Texte\QuidditchConsole\bin\Debug\QuidditchConsole.exe.config
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\Quidditch Mode Texte\QuidditchConsole\obj\Debug\QuidditchConsole.exe
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\Quidditch Mode Texte\QuidditchConsole\obj\Debug\QuidditchConsole.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\QuidditchConsole.exe.config
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\QuidditchConsole.exe
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\QuidditchConsole.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\BusinessLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\EntitiesLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\BusinessLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\EntitiesLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\obj\Debug\QuidditchConsole.csprojResolveAssemblyReference.cache
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\obj\Debug\QuidditchConsole.exe
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\QuidditchConsole\obj\Debug\QuidditchConsole.pdb

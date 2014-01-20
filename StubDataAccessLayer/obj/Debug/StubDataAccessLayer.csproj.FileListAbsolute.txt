@@ -1,0 +1,14 @@
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\rouxel\Documents\Visual Studio 2012\Projects\QuidditchConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\StubDataAccessLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.dll
+C:\Users\Sylvie\Documents\Visual Studio 2013\Projects\QuidditchConsole\StubDataAccessLayer\obj\Debug\StubDataAccessLayer.pdb
